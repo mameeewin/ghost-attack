@@ -1,6 +1,6 @@
 # ghost-attack ![Build status badge](https://github.com/mameeewin/ghost-attack/workflows/MakeCode/badge.svg)
 
-
+https://makecode.com/_AbWV7oCEFYCM
 
 ## Use this extension
 
